@@ -1,0 +1,4 @@
+//Big Wilk's Pylon Loadout Menu Configs. 
+#include "BW_PLM\configs.h" 
+#include "cfgFunctions.h"
+
